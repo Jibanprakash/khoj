@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-  This program is a part of simple Slam Book application written in C++
+  This program is a part of Khoj - The multi-platform Local search engine
 
   Copyright (C) 2014 Jiban Prakash, jibanprakash.jp(at)gmail(dot)com
   Saurabh Araiyer,  sizzsa(at)gmail(dot)com
@@ -23,7 +23,7 @@
 ''' 
 This file implements the basic
 folder parsing and storing the 
-metadata
+meta data
 '''
 import os, sys
 from stat import *

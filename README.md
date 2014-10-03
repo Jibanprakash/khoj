@@ -1,6 +1,4 @@
-/**********************************************************************
-
-  This program is a part of simple Slam Book application written in C++
+  This is Khoj - The multi-platform Local search engine
 
   Copyright (C) 2014 Jiban Prakash, jibanprakash.jp(at)gmail(dot)com
   Saurabh Araiyer,  sizzsa(at)gmail(dot)com
@@ -17,8 +15,6 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-************************************************************************/
 
 khoj
 ====
