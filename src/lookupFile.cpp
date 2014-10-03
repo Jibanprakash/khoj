@@ -74,7 +74,6 @@ public:
 
 
 //Driver Program
-/*
 int main(int argc, char** argv)
 {
     lookupFile obj1("sampleInput");
@@ -82,4 +81,3 @@ int main(int argc, char** argv)
     cout<<"Size is "<<results.size();
     return 0;
 }
-*/
